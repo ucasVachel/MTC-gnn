@@ -12,3 +12,6 @@ The data folder contains the data processing code, which can complete the genera
 Run main_slmgnn.py to start to train.
 
 Before training, make sure to complete the target missing data generation and data partitioning tasks.
+
+## update
+update the weight and code of the relevant baseline
