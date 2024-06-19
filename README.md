@@ -1,4 +1,4 @@
-# scm-gnn
+# MTC-gnn
 
 configs ：
 The configuration files in configs are used to set experimental data sets, missing data and hyperparameters
