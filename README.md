@@ -13,5 +13,7 @@ Run main_slmgnn.py to start to train.
 
 Before training, make sure to complete the target missing data generation and data partitioning tasks.
 
+//It is worth noting that this model was originally called slmgnn because some changes suggested by the editor ended up being called mtc-gnn
+
 ## update
 update the weight and code of the relevant baseline
