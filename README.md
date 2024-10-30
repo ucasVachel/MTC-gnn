@@ -1,7 +1,7 @@
 # MTC-gnn
 
-> Acknowledgments
-> Tianjin Intelligent Manufacturing Special Fund Project, No.20201198.
+## Acknowledgments
+## Tianjin Intelligent Manufacturing Special Fund Project, No.20201198.
 
 configs ：
 The configuration files in configs are used to set experimental data sets, missing data and hyperparameters
